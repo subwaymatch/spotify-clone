@@ -14,6 +14,6 @@ pnpm dev
 
 ## Links
 
-[Antonio's repository](https://github.com/AntonioErdeljac/next13-spotify)
-[Antonio's project page](https://www.codewithantonio.com/projects/spotify)
-[Antonio's demo website](https://next13-spotify.vercel.app/)
+- [Antonio's repository](https://github.com/AntonioErdeljac/next13-spotify)
+- [Antonio's project page](https://www.codewithantonio.com/projects/spotify)
+- [Antonio's demo website](https://next13-spotify.vercel.app/)
